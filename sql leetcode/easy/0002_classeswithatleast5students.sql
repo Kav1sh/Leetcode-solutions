@@ -1,0 +1,1 @@
+select class from courses group by class  count(student)>=5;
